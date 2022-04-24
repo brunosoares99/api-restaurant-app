@@ -1,5 +1,5 @@
 ## Language en-US
-## APP Restaurant API
+## API Restaurant API
 
 This is my first full API using NodeJS.
 
@@ -16,13 +16,13 @@ And you can make requests following this url as a base: [http://localhost:3333](
 The `API endpoints` can be found in the `route.ts` file.
 
 ## Language pt-BR
-## API Restaurant APP
+## API Restaurante APP
 
 Essa é a minha primeira API completa em NodeJS.
 
 Ela foi desenvolvida com o objetivo de servir um front-end ainda em construção de um sistema de comandas, onde em um estabelicimento comercial o funcionário registra os pedidos realizados e os envia para uma tela, para que assim seja preparado o pedido.
 
-## Available Scripts
+## Scripts Disponíveis
 
 No diretório do projeto, você pode rodar:
 ### `yarn dev` or `npm run dev`
