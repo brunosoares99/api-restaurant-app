@@ -1,4 +1,3 @@
-import { prisma } from "@prisma/client";
 import prismaClient from "../../prisma";
 
 class DetailUserService {
